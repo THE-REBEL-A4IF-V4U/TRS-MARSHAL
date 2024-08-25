@@ -3,7 +3,7 @@
 
 rm -rf TRS-MARSHAL
 
-git clone  https://github.com/ARIF-VAU-TRA233/TRS-MARSHAL
+git clone  https://github.com/THE-REBEL-A4IF-V4U/TRS-MARSHAL
 
 cd TRS-MARSHAL
 
